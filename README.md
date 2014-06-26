@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/nacengineer/devise_ldap_uac.png)](https://codeclimate.com/github/nacengineer/devise_ldap_uac)
+
 # DeviseLdapUac
 
 This is a simple gem which gives you a module you can mix-in to your ldap_authenticable class to read the User Acount Control Flags.
